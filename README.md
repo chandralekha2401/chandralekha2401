@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chandralekha veerath. I am a MSc computer science student.
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning full stack techologies like React Js, Java with spring boot and MYsql.
+- 👀 I’m interested in software coding 
+- 🌱 I’m currently learning full stack techologies like React Js, Java with spring boot and MySQL.
 
 
 <!---
