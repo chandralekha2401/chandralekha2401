@@ -1,6 +1,6 @@
 # Hi there, I'm Chandralekha Veerath 👩‍💻
 
-🔭 ** Full Stack Developer | Tech Finishing School Graduate  | MSc in Advanced Computer Science (Research) **  
+🔭 ** Full Stack Developer | Full Stack Trainee at Tech Finishing School  | MSc in Advanced Computer Science (Research) | Code First Girls Bootcamp Graduate in Full Stack Route**  
 🌱 Passionate about building scalable software solutions using **React.js**, **Node.js**, **Java**, **Spring Boot** and **MySQL**. 
 
 💼 Currently open to work as:
